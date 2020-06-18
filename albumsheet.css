@@ -1,0 +1,22 @@
+header h1 {
+	text-align: center;
+
+}
+.Decade img{
+	width:25%;
+	display:block;
+}
+.Decade {
+	width:40%;
+	margin-right:5%;
+	display:inline-block;
+	vertical-align:top;
+}
+.Decade h2{
+	color:#000099;
+	text-align:center;
+}
+.Decade
+header, body{
+	background-color:#cce5ff;
+}
